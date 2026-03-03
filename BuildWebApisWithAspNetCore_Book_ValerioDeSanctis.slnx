@@ -1,5 +1,5 @@
 <Solution>
   <Folder Name="/Chapter04/">
-    <Project Path="Chapter04/WebApplication1/WebApplication1.csproj" />
+    <Project Path="Chapter04/MyBGList/MyBGList.csproj" />
   </Folder>
 </Solution>

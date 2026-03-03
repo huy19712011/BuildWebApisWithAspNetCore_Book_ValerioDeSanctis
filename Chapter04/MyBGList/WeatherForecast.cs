@@ -1,4 +1,4 @@
-namespace WebApplication1
+namespace MyBGList
 {
     public class WeatherForecast
     {
